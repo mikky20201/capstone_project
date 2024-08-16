@@ -1,0 +1,14 @@
+version: 2
+sources: 
+  - name: capstone_data1
+    database: capstone-project-431620
+    tables:
+      - name: customers
+      - name: geolocation
+      - name: order_items
+      - name: order_payments
+      - name: order_reviews
+      - name: orders
+      - name: product_translation
+      - name: products
+      - name: sellers
