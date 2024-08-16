@@ -94,8 +94,9 @@ create table if not exists ecommerce.customers
   - Loading data into Google BigQuery.
 
 <p align="center">
-  <img src="/Users/micahonyedikachitobias/Desktop/Capstone_Project/include/gcs/airflow.png" alt="airflow Orchestration" width="600"/>
+  <img src="https://github.com/user-attachments/assets/a458759a-52d8-4e9f-8c76-16954be2786b" alt="airflow Orchestration" width="600"/>
 </p>
+
 
 ### 3. Loading Data from PostgreSQL to BigQuery
 
@@ -106,8 +107,9 @@ create table if not exists ecommerce.customers
 #### Load Data Using Airflow
 - Use Airflow operators to extract data from PostgreSQL, optionally transform it, and load it into GCP bucket and the BigQuery dataset.
 <p align="center">
-  <img src="/Users/micahonyedikachitobias/Desktop/Capstone_Project/include/gcs/gcs.png" alt="gcs bucket" width="600"/>
+  <img src="https://github.com/user-attachments/assets/b1f1e391-e0ee-4ec2-a8bd-677c24a30de3" alt="gcs bucket" width="600"/>
 </p>
+
 
 ### 4. Transforming and Modeling Data with dbt
 
