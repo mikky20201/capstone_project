@@ -21,8 +21,9 @@ This project involves developing an end-to-end ELT (Extract, Load, Transform) pr
 
 ## Data architecture
 <p align="center">
-  <img src="https://drive.google.com/file/d/16KRgvrz75d14FXyT9aI5IcxfXekR5mAl/view?usp=drive_link" alt="Data architecture" width="600"/>
+  <img src="https://github.com/user-attachments/assets/52f03ca9-8cd2-4f72-ad9c-ea215d541c77" alt="Data architecture" width="600"/>
 </p>
+
 
 ## Tools and Technologies
 
