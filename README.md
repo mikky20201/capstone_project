@@ -17,11 +17,11 @@
 
 ## Project Overview
 
-This project involves developing an end-to-end ELT (Extract,Load, Transform) process using the [Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) from Kaggle. The aim is to help data end-users answer analytical questions by implementing a comprehensive data pipeline. The project demonstrates the use of key data engineering tools, including PostgreSQL, Docker, Docker Compose, Apache Airflow, dbt, and Google BigQuery.
+This project involves developing an end-to-end ELT (Extract, Load, Transform) process using the [Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) from Kaggle. The aim is to help data end-users answer analytical questions by implementing a comprehensive data pipeline. The project demonstrates the use of key data engineering tools, including PostgreSQL, Docker, Docker Compose, Apache Airflow, dbt, and Google BigQuery.
 
 ## Data architecture
 <p align="center">
-  <img src="/Users/micahonyedikachitobias/Desktop/Capstone_Project/include/gcs/Screenshot.png" alt="Data architecture" width="600"/>
+  <img src="https://drive.google.com/file/d/16KRgvrz75d14FXyT9aI5IcxfXekR5mAl/view?usp=drive_link" alt="Data architecture" width="600"/>
 </p>
 
 ## Tools and Technologies
